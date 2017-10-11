@@ -2,6 +2,6 @@
 
 # CarND 第一学期 工具包 测试
 
-这些用于测试 [第一学期工具包](https://github.com/udacity/CarND-Term1-Starter-Kit) 是否安装成功。
+这些文件用于测试 [Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) 是否安装成功。
 
 在 Jupyter Notebook 中点击 Run All ，notebook 将会成功无误地执行所有代码块。
